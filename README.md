@@ -1,1 +1,1 @@
-[![Rating](https://img.shields.io/wordpress/plugin/r/dirtysuds-embed-pdf.svg)](https://github.com/FranVerdu/dentidex/blob/master/Documentacion/Manual%20de%20Usuario%20-%20Dentidex.pdf)
+[embed]https://github.com/FranVerdu/dentidex/blob/master/Documentacion/Manual%20de%20Usuario%20-%20Dentidex.pdf[/embed]
