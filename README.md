@@ -1,8 +1,2 @@
-<embed
-    src="./Documentacion/Manual_de_Usuario_Dentidex.pdf"
-	 type="application/pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></embed>
+## Manual de Usuario de la aplicación Dentidex
+[embed]https://github.com/FranVerdu/dentidex/blob/master/Documentacion/Manual_de_Usuario_Dentidex.pdf[/embed]
